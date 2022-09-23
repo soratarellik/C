@@ -6,7 +6,6 @@ int main(int argc, char * argv[]){
     fichier = NULL;
     fichier = fopen(argv[1],"w");
     caractere = 0;
-
     if(fichier != NULL){
         while (caractere != EOF && caractere != 10)
         {
