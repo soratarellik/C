@@ -1,2 +1,2 @@
 # C
-Faire le makefile + exercice 3
+TP1 de C Fini
